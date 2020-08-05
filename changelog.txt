@@ -1,0 +1,13 @@
+# Changelog
+All notable changes to "bgonzalezbustamante.com landing page" will be documented in this file.
+
+## [Unreleased]
+
+## [Released]
+
+## [1.0.0] - 2020-08-05
+### Added
+- GitHub repository.
+- GitHub page powered by Jekyll.
+- DNS domain redirections.
+- Changelog in TXT format at GitHub repository.
