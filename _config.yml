@@ -3,6 +3,7 @@ title: Bastián González-Bustamante
 description: 'Bastián González-Bustamante, PRS DPhil in Politics, Department of Politics and International Relations and St Hilda's College, University of Oxford'
 url: 'https://bgonzalezbustamante.github.io'
 baseurl: '/bgonzalezbustamante.com'
+encoding: UTF-8
 
 ## google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
