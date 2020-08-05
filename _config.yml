@@ -1,20 +1,18 @@
-# Settings
+## Settings
 title: Bastián González-Bustamante
 description: 'PRS DPhil in Politics, University of Oxford'
 url: https://bgonzalezbustamante.com
 baseurl: '/'
 encoding: UTF-8
 
-## google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-174550874-1'
+## disqus_shortname: ''
 
 author:
   name: 'Bastián González-Bustamante'
   email: bastian.gonzalezbustamante@politics.ox.ac.uk
   twitter_username: bastiangb
-  ## facebook_username: joshgerdes
   github_username:  bgonzalezbustamante
-  ## linkedin_username:  joshgerdes
 
 defaults:
   -
@@ -24,7 +22,7 @@ defaults:
     values:
         layout: 'post'
 
-# Build settings
+## Build settings
 destination: _site
 paginate: 10
 permalink: /:year/:title/
