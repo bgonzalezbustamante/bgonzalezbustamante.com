@@ -5,6 +5,10 @@ All notable changes to "bgonzalezbustamante.com landing page" will be documented
 
 ## [Released]
 
+## [1.0.0] - 2020-08-07
+### Changed
+- Foundation icons.
+
 ## [1.0.0] - 2020-08-05
 ### Added
 - GitHub repository.
