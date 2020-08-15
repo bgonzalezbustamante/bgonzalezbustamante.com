@@ -5,6 +5,10 @@ All notable changes to "bgonzalezbustamante.com landing page" will be documented
 
 ## [Released]
 
+## [1.1.0] - 2020-08-15
+### Added
+- MIT License
+
 ## [1.0.0] - 2020-08-07
 ### Changed
 - Foundation icons.
