@@ -3,7 +3,15 @@ All notable changes to "bgonzalezbustamante.com landing page" will be documented
 
 ## [Unreleased]
 
+## [1.3.0] - TBC
+### Added
+- CV typed in XeLaTeX.
+
 ## [Released]
+
+## [1.2.0] - 2020-08-19
+### Added
+- CV typed in LaTeX.
 
 ## [1.1.0] - 2020-08-15
 ### Added
