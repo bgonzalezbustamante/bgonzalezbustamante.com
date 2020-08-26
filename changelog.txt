@@ -9,7 +9,7 @@ All notable changes to "bgonzalezbustamante.com landing page" will be documented
 ### Added
 - Badges in SVG at GitHub repository.
 ### Changed
-- Automatic CV updates (TBC).
+- Automatic CV updates.
 
 ## [1.2.0] - 2020-08-19
 ### Added
